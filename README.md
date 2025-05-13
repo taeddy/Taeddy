@@ -33,7 +33,7 @@
 <!-- table 형식 -->
 |프로젝트 이름|아키텍처|요약|기술 스택|개발 기간|팀원|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[🔍 딥러닝을 이용한 뉴런칼슘이미지 해석](https://github.com/OhKimJeeSuh/Image-Optimizier)|<img src="https://github.com/user-attachments/assets/54833593-e3da-481f-b2fc-1ff9a6ea7551" width="900" >|뉴런 이미지를 전처리 및 가공하고, 이를 이용하여 CNN 모델을 학습/검증/평가, Grad-CAM으로 모델 해석|Python, Pytorch, Pandas, CUDA|2021.05~2022.02|4명|
+|[🔍 딥러닝을 이용한 뉴런칼슘이미지 해석](https://github.com/OhKimJeeSuh/Image-Optimizier)|<img src="" width="900" >|뉴런 이미지를 전처리 및 가공하고, 이를 이용하여 CNN 모델을 학습/검증/평가, Grad-CAM으로 모델 해석|Python, Pytorch, Pandas, CUDA|2021.05~2022.02|4명|
 
 <br>
 
