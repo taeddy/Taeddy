@@ -33,52 +33,27 @@
 <!-- table 형식 -->
 |프로젝트 이름|요약|기술 스택|개발 기간|팀원|
 |:---:|:---:|:---:|:---:|:---:|
-|🔍 딥러닝을 이용한 뉴런칼슘이미지 해석|뉴런 이미지를 전처리 및 가공하고, 이를 이용하여 CNN 모델을 학습/검증/평가, Grad-CAM으로 모델 해석|Python, Pytorch, Pandas, CUDA|2021.05~2022.02|4명|
+|[🔍 딥러닝을 이용한 뉴런칼슘이미지 해석](https://github.com/taeddy/Neuron_CNN_Interpretation)|뉴런 이미지를 전처리 및 가공하고, 이를 이용하여 CNN 모델을 학습/검증/평가, Grad-CAM으로 모델 해석|Python, Pytorch, Pandas, CUDA|2021.05~2022.02|4명|
 |[🔄 교실 자리바꾸기 프로그램](https://github.com/taeddy/ReplaceSeat)|좌석 배치를 랜덤하게 변경하는 GUI프로그램|Python, PyQt5|2023.03.15&#126;2023.03.31, 2025.05.13&#126;|1명|
 
 <br>
 
 <!--
-## 🧑‍💻 Contact me 
-
-<div align="center">
-   
-**포트폴리오**
-<div><a href=https://github.com/ssoyeonni/Portfolio/><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></a>
-</div><br>
-
-**블로그**
-<div>
-<a href=https://imsooo.tistory.com/><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://imsooo.tistory.com/"> </a>
-</div>
-</div>
-<br>
-
-<!-- 
 ## 🏅 Stats 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ssoyeonni&bg_color=180,00000000,00000000&title_color=fd9696&text_color=fd9696" height="160" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoyeonni&layout=compact&bg_color=180,00000000,00000000&title_color=fd9696&text_color=fd9696" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=taeddy" height="160" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeddy&layout=compact" height="160" />
 </div> 
 <br>
-
--->
-
-
-
-<!-- 여기까지 (https://github-profile-readme-editor.netlify.app/secondstep) 코드 -->
-
-<!-- 농장 
 <div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ssoyeonni&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=taeddy&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/ssoyeonni"
+  src="https://render.gitanimals.org/farms/taeddy"
   width="500"
   height="250"
 />
 </a>
 </div>
-
-
 -->
+
 
