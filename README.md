@@ -33,7 +33,7 @@
 <!-- table 형식 -->
 |프로젝트 이름|요약|기술 스택|개발 기간|팀원|
 |:---:|:---:|:---:|:---:|:---:|
-|[🔍 딥러닝 기반 신경세포 칼슘 이미징 데이터 분석](https://github.com/taeddy/Neuron_CNN_Interpretation)|뉴런 이미지를 전처리 및 가공하고, 이를 이용하여 CNN 모델을 학습/검증/평가, Grad-CAM으로 모델 해석|Python, Pytorch, Pandas, CUDA|2021.05~2022.02|4명|
+|[🔍 딥러닝 기반 신경세포 칼슘 이미징 데이터 분석](https://github.com/taeddy/Neuron_CNN_Interpretation)|뉴런 이미지를 전처리 및 가공하고, 이를 이용하여 CNN 모델을 학습/검증/평가, Grad-CAM으로 모델 해석|Python, Pytorch, Pandas, CUDA|2021.06~2022.02|4명|
 |[🔄 교실 자리바꾸기 프로그램](https://github.com/taeddy/ReplaceSeat)|좌석 배치를 랜덤하게 변경하는 GUI프로그램|Python, PyQt5|2023.03.15&#126;2023.03.31, 2025.05.13&#126;|1명|
 
 <br>
