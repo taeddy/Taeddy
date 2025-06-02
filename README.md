@@ -29,13 +29,12 @@
 |**Colabration**|<p align="left"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> </p> |
 <br>
 
-## 🗂️ Projects List 
+## 🗂️ Projects
 <!-- table 형식 -->
 |프로젝트 이름|요약|기술 스택|개발 기간|
 |:---:|:---:|:---:|:---:|
 |[🔍 딥러닝 기반 신경세포 칼슘 이미징 데이터 분석](https://github.com/taeddy/Neuron_CNN_Interpretation)|뉴런 이미지 처리, CNN을 이용한 이미지 분류 Grad-CAM을 이용한 모델 해석|Python, Pytorch, Pandas, CUDA|2021.06~2022.02|
 |[🔄 교실 자리바꾸기 프로그램](https://github.com/taeddy/ReplaceSeat)|좌석 배치를 랜덤하게 변경하는 GUI프로그램|Python, PyQt5|2023.03.15&#126;2023.03.31, 2025.05.13&#126;2025.05.20|
-|[👀 웹 크롤러 실습](https://github.com/taeddy/crawler)|웹 크롤링 실습 프로그램|Python, requests, selenium|2025.05~|
 |[🤖 HAI: Hecto AI Challenge 2025](https://github.com/taeddy/HAI-Hecto-AI-Challenge-2025)|자동차 차종 분류 인공지능 모델링|Python, Pytorch, Pandas|2025.05~2025.06|
 
 <br>
