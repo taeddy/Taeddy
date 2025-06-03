@@ -35,18 +35,25 @@
 -->
 
 ## 🗂️ Projects
-<!-- table 형식 -->
 |프로젝트 이름|요약|기술 스택|개발 기간|
 |:---:|:---:|:---:|:---:|
 |[🔍 딥러닝 기반 신경세포 칼슘 이미징 데이터 분석](https://github.com/taeddy/Neuron_CNN_Interpretation)|뉴런 이미지 처리, CNN을 이용한 이미지 분류 Grad-CAM을 이용한 모델 해석|Python, Pytorch, Pandas, CUDA|2021.06~2022.02|
-|[🔄 교실 자리바꾸기 프로그램](https://github.com/taeddy/ReplaceSeat)|좌석 배치를 랜덤하게 변경하는 GUI프로그램|Python, PyQt5|2023.03.15&#126;2023.03.31, 2025.05.13&#126;2025.05.20|
 |[🤖 HAI: Hecto AI Challenge 2025](https://github.com/taeddy/HAI-Hecto-AI-Challenge-2025)|자동차 차종 분류 인공지능 모델링|Python, Pytorch, Pandas|2025.05~2025.06|
+
+### 🤖 Toy Projects
+|프로젝트 이름|요약|기술 스택|개발 기간|
+|:---:|:---:|:---:|:---:|
+|[웹페이지 제작](https://github.com/taeddy/htmlProjects)|페이지를 제작하며 프론트 역량 키우기|HTML5, CSS, JS|2025.05~|
+|[코딩 테스트 문제풀이](https://github.com/taeddy/codingTest)|다양한 코딩테스트 사이트의 문제 풀이|Python|2024.06~|
+|[교실 자리바꾸기 프로그램](https://github.com/taeddy/ReplaceSeat)|좌석 배치를 랜덤하게 변경하는 GUI프로그램|Python, PyQt5|2023.03, 2025.05|
+|[오목 게임](https://github.com/taeddy/GomokuGame)|멀티플레이 가능한 오목 게임 만들기|Java|2020.03~2020.06|
+
 
 <br>
 
 <!--
 ## 🏅 Stats 
-<div>
+<div align="center>
     <img src="https://github-readme-stats.vercel.app/api?username=taeddy" height="160" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeddy&layout=compact" height="160" />
 </div> 
