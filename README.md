@@ -14,12 +14,16 @@
 
 저는 데이터를 분석하고, 인사이트를 발굴하기 위해
 빅데이터 분석부터 AI개발까지 폭넓게 공부하며 <br> 기초부터 차근차근 쌓아가는 데 집중하고 있습니다.<br>
-현재 Python, Pytorch, 알고리즘을 중심으로 프로젝트를 진행하고 있습니다✨
+현재 아래와 같은 내용을 중심으로 프로젝트를 진행하고 있습니다✨
+   - 데이터 분석, 가시화를 위한 DACON, KAGGLE
+   - 웹앱 개발을 위한 프론트엔드
+   - 알고리즘 최적화를 위한 코딩 문제 풀이
+
 
 
 <br>
 
-
+<!--
 ## 🛠️ Tech Stacks 
 |Category|Tech Stack|
 |:---:|:---:|
@@ -28,6 +32,7 @@
 |**Tool**|<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white"> </p> |
 |**Colabration**|<p align="left"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> </p> |
 <br>
+-->
 
 ## 🗂️ Projects
 <!-- table 형식 -->
