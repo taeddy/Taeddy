@@ -15,10 +15,11 @@
 저는 데이터를 분석하고, 인사이트를 발굴하기 위해
 빅데이터 분석부터 AI개발까지 폭넓게 공부하며 <br> 기초부터 차근차근 쌓아가는 데 집중하고 있습니다.<br>
 현재 아래와 같은 내용을 중심으로 프로젝트를 진행하고 있습니다✨
-   - 데이터 분석, 가시화를 위한 DACON, KAGGLE
-   - 웹앱 개발을 위한 프론트엔드
-   - 알고리즘 최적화를 위한 코딩 문제 풀이
-
+```
+- 데이터 분석, 가시화를 위한 DACON, KAGGLE
+- 웹앱 개발을 위한 프론트엔드
+- 알고리즘 최적화를 위한 코딩 문제 풀이
+```
 
 
 <br>
@@ -40,14 +41,15 @@
 |[🔍 딥러닝 기반 신경세포 칼슘 이미징 데이터 분석](https://github.com/taeddy/Neuron_CNN_Interpretation)|뉴런 이미지 처리, CNN을 이용한 이미지 분류 Grad-CAM을 이용한 모델 해석|Python, Pytorch, Pandas, CUDA|2021.06~2022.02|
 |[🤖 HAI: Hecto AI Challenge 2025](https://github.com/taeddy/HAI-Hecto-AI-Challenge-2025)|자동차 차종 분류 인공지능 모델링|Python, Pytorch, Pandas|2025.05~2025.06|
 
-### 🤖 Toy Projects
+<br>
+
+## 🤖 Toy Projects
 |프로젝트 이름|요약|기술 스택|개발 기간|
 |:---:|:---:|:---:|:---:|
-|[웹페이지 제작](https://github.com/taeddy/htmlProjects)|페이지를 제작하며 프론트 역량 키우기|HTML5, CSS, JS|2025.05~|
-|[코딩 테스트 문제풀이](https://github.com/taeddy/codingTest)|다양한 코딩테스트 사이트의 문제 풀이|Python|2024.06~|
-|[교실 자리바꾸기 프로그램](https://github.com/taeddy/ReplaceSeat)|좌석 배치를 랜덤하게 변경하는 GUI프로그램|Python, PyQt5|2023.03, 2025.05|
+|[웹페이지 제작](https://github.com/taeddy/htmlProjects)|페이지를 제작하며 프론트 역량 키우기|HTML5, CSS, Javascript|2025.05~|
+|[코딩 테스트 문제풀이](https://github.com/taeddy/codingTest)|다양한 코딩테스트 사이트의 문제 풀이<br>Solved.ac, Codeforces, Atcoder, Programmers|Python|2024.06~|
+|[교실 자리변경 프로그램](https://github.com/taeddy/ReplaceSeat)|좌석 배치를 랜덤하게 변경하는 GUI프로그램|Python, PyQt5|2023.03, 2025.05|
 |[오목 게임](https://github.com/taeddy/GomokuGame)|멀티플레이 가능한 오목 게임 만들기|Java|2020.03~2020.06|
-
 
 <br>
 
