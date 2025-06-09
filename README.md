@@ -35,8 +35,8 @@
 ## 🗂️ Projects
 |프로젝트 이름|요약|기술 스택|개발 기간|
 |:---:|:---:|:---:|:---:|
-|[🔍 딥러닝 기반 신경세포 칼슘 이미징 데이터 분석](https://github.com/taeddy/Neuron_CNN_Interpretation)|뉴런 이미지 처리, CNN을 이용한 이미지 분류 Grad-CAM을 이용한 모델 해석|Python, Pytorch, Pandas, CUDA|2021.06~2022.02|
 |[🤖 HAI: Hecto AI Challenge 2025](https://github.com/taeddy/HAI-Hecto-AI-Challenge-2025)|자동차 차종 분류 인공지능 모델링|Python, Pytorch, Pandas, Scikit learn, Google Colab (Jupyter Notebook)|2025.05~2025.06|
+|[🔍 딥러닝 기반 신경세포 칼슘 이미징 데이터 분석](https://github.com/taeddy/Neuron_CNN_Interpretation)|뉴런 이미지 처리, CNN을 이용한 이미지 분류 Grad-CAM을 이용한 모델 해석|Python, Pytorch, Pandas, CUDA|2021.06~2022.02|
 
 <br>
 
