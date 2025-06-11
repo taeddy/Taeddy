@@ -21,17 +21,6 @@
 
 <br>
 
-<!--
-## 🛠️ Tech Stacks 
-|Category|Tech Stack|
-|:---:|:---:|
-|**Programming Languages** |<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> </p> |
-|**Library**|<p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white"> </p> |
-|**Tool**|<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white"> </p> |
-|**Colabration**|<p align="left"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> </p> |
-<br>
--->
-
 ## 🗂️ Projects
 |프로젝트 이름|요약|기술 스택|개발 기간|
 |:---:|:---:|:---:|:---:|
