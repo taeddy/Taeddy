@@ -6,7 +6,7 @@
 
 
 ## 💡 About Me
-안녕하세요. 데이터로 세상을 바라보는 신입 개발자입니다. 🍀
+안녕하세요. 데이터로 세상을 바라보는 신입 개발자입니다. [🍀](https://amenable-noise-8e9.notion.site/2013a18c7a038052a27cc7eb513b1d1d)
 <br>
 
 저는 과제 중심의 개발 프로세스를 지향합니다.<br>
@@ -15,7 +15,6 @@
 ```
 - 알고리즘 최적화를 위한 코딩 문제 풀이 (백준, Programmers, Codeforces, Atcoder)
 - 데이터 분석, 가시화 (DACON, KAGGLE)
-- 웹페이지 제작
 ```
 
 
