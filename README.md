@@ -5,7 +5,6 @@
 </div>
 
 
-
 ## 💡 About Me
 안녕하세요. 데이터로 세상을 바라보는 신입 개발자입니다. [🍀](https://amenable-noise-8e9.notion.site/2013a18c7a038052a27cc7eb513b1d1d)
 <br>
